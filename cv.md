@@ -50,3 +50,13 @@ WiSci(Women in Science) Camp in Georgia Organized by United Nations’ GirlUp*
 ## ***Skills:***
 C#, ASP.NET, JavaScript, SQL Server, MIPS Assembly, Cisco Packet Tracer, Git, Python
 
+## ***Certifications:***
+MTA: Software Development Fundamentals - Certified 2021 
+ 
+
+ - Passed Microsoft Exam 98-361: Software Development Fundamentals
+ - Programming in C# (New Horizons Computer Learning Center)
+
+## ***English:***
+- TOEFL pbt
+- Graduated from US-based University in which language of instruction was English
